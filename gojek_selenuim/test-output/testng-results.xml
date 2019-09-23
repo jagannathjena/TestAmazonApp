@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="143216" started-at="2019-09-23T11:56:56Z" finished-at="2019-09-23T11:59:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="143216" started-at="2019-09-23T11:56:56Z" finished-at="2019-09-23T11:59:19Z">
+      <class name="gojek_selenuim.gojek_selenuim.TestAmazon">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:gojek_selenuim.gojek_selenuim.TestAmazon@50d0686]" name="beforeClass" is-config="true" duration-ms="1986" started-at="2019-09-23T11:56:56Z" finished-at="2019-09-23T11:56:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testAmazonLogin()[pri:1, instance:gojek_selenuim.gojek_selenuim.TestAmazon@50d0686]" name="testAmazonLogin" duration-ms="18276" started-at="2019-09-23T11:56:58Z" finished-at="2019-09-23T11:57:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAmazonLogin -->
+        <test-method status="PASS" signature="testAddToCart()[pri:2, instance:gojek_selenuim.gojek_selenuim.TestAmazon@50d0686]" name="testAddToCart" duration-ms="122934" started-at="2019-09-23T11:57:16Z" finished-at="2019-09-23T11:59:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddToCart -->
+      </class> <!-- gojek_selenuim.gojek_selenuim.TestAmazon -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
